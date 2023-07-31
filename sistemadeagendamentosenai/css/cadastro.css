@@ -1,0 +1,12 @@
+#botao{
+    margin-top: 50px;
+}
+.cadastro{
+    background-color: rgb(255, 255, 255);
+    width: 700px;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+.nav-item a{
+    color: white;
+}

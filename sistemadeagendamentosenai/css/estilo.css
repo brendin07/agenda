@@ -1,0 +1,21 @@
+.nav-item a{
+    color: white;
+}
+footer{
+    margin-top: 70px;
+}
+
+.sexo{
+    margin: 0 auto;
+    display: grid;
+    place-content: center;
+    grid-template-columns: 0.2fr 0.2fr 0.2fr;
+    gap: 20px;
+    text-align: center;
+    margin-right: 249px;
+}
+ .all{
+    margin-left: 235px;
+    margin-top: 80px;
+}
+
