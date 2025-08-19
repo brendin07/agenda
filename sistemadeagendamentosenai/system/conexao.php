@@ -8,5 +8,5 @@ $link = mysqli_connect(HOST, USER,  PASS, BANCO)
 
 
     //selecionando o banco de dados para enviar os scripts
-    mysqli_select_db($link, BANCO);
+   
 ?>  
